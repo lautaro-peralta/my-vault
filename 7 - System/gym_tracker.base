@@ -1,0 +1,29 @@
+views:
+  - type: table
+    name: Entrenamientos
+    filters:
+      and:
+        - Tipo == "#entrenamiento"
+        - Fecha != "{{date}}, {{time}}"
+    order:
+      - Enfoque
+      - Fecha
+      - Curl_Biceps
+      - Fondos
+      - Dominadas
+      - Jalon_Pecho
+      - Peso_Corporal
+      - Press_Inclinado
+      - Sentadilla
+      - Tipo
+      - Triceps_Polea
+      - Vuelos_Laterales
+    sort:
+      - property: Enfoque
+        direction: ASC
+      - property: Fecha y hora
+        direction: DESC
+      - property: Fecha
+        direction: ASC
+    columnSize:
+      note.Peso_Corporal: 127

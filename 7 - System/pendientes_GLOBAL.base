@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Notas Pendientes GLOBAL
+    filters:
+      and:
+        - Estado == "#pendiente"
+        - file.name != "Class Note"
+    order:
+      - file.name
+      - Fecha
+    sort:
+      - property: Fecha y hora
+        direction: ASC

@@ -1,0 +1,12 @@
+{
+  "_plusDuration": 30,
+  "_minusDuration": 30,
+  "_backwardStep": 5,
+  "_forwardStep": 15,
+  "_audioNotesApiKey": "",
+  "_debugMode": false,
+  "_DGApiKey": "cb541317e158aa0546eaf0128d9a467d98a029a3",
+  "_DGTranscriptFolder": "transcripts/",
+  "positions": {},
+  "uuid": "7ef7-77a8-a16e-2e0a"
+}

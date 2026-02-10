@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 - Rough Notes",
+  "attachmentFolderPath": "2 - Source Material",
+  "openBehavior": "file:DASHBOARD",
+  "propertiesInDocument": "visible",
+  "spellcheck": true
+}

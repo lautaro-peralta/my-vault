@@ -1,0 +1,101 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiLaptopMinimalCheck",
+      "LiSigma",
+      "LiSquareDashedMousePointer",
+      "LiNetwork",
+      "LiSettings"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2 - Source Material/audio": "LiAudioLines",
+  "2 - Source Material/images": "LiImage",
+  "2 - Source Material/docs": "LiFiles",
+  "2 - Source Material/books": "LiBookOpenText",
+  "4 - Indexes/2025/Probabilidad y estadística.md": {
+    "iconName": "LiChartColumn",
+    "iconColor": "#9c75ff"
+  },
+  "4 - Indexes/2025/Legislación.md": {
+    "iconName": "LiScale",
+    "iconColor": "#854900"
+  },
+  "4 - Indexes/2025/Física II.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#006fff"
+  },
+  "4 - Indexes/2025/Economía.md": {
+    "iconName": "LiCircleDollarSign",
+    "iconColor": "#ffff00"
+  },
+  "4 - Indexes/2025/Diseño de Sistemas de Información.md": {
+    "iconName": "LiProportions",
+    "iconColor": "#008394"
+  },
+  "4 - Indexes/2025/Desarrollo de Software.md": {
+    "iconName": "LiCode2",
+    "iconColor": "#ff8400"
+  },
+  "4 - Indexes/2025/Comunicación de Datos.md": {
+    "iconName": "LiSatellite",
+    "iconColor": "#c2027f"
+  },
+  "4 - Indexes/2025/Bases de Datos.md": {
+    "iconName": "LiDatabase",
+    "iconColor": "#15b500"
+  },
+  "4 - Indexes/2025/Análisis Matemático II.md": {
+    "iconName": "LiCalculator",
+    "iconColor": "#ff0000"
+  },
+  "DASHBOARD.md": {
+    "iconName": "LiClipboardCheck",
+    "iconColor": "#24abff"
+  },
+  "4 - Indexes/2026/Ingeniería y Calidad de Software.md": {
+    "iconName": "LiSettings",
+    "iconColor": "#ffbb00"
+  },
+  "4 - Indexes/2026/Redes de Datos.md": {
+    "iconName": "LiNetwork",
+    "iconColor": "#cc0000"
+  },
+  "4 - Indexes/2026/Administración de Sistemas de Información.md": {
+    "iconName": "LiSquareDashedMousePointer",
+    "iconColor": "#13761a"
+  },
+  "4 - Indexes/2026/Análisis Numérico.md": {
+    "iconName": "LiSigma",
+    "iconColor": "#ff5900"
+  },
+  "4 - Indexes/2026/Simulación.md": {
+    "iconName": "LiLaptopMinimalCheck",
+    "iconColor": "#6d38ff"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Año": "text",
+    "Materia": "text",
+    "Tema": "text",
+    "Día": "datetime",
+    "Fecha y hora": "text",
+    "Enfoque": "text",
+    "Fecha": "text",
+    "Sentadilla": "multitext",
+    "Press_Inclinado": "multitext",
+    "Dominadas": "multitext",
+    "Curl_Biceps": "multitext",
+    "Vuelos_Laterales": "multitext",
+    "Jalon_Pecho": "multitext",
+    "Fondos": "multitext",
+    "Triceps_Polea": "multitext"
+  }
+}

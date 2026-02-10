@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBookOpenText",
+      "LiFiles",
+      "LiImage",
+      "LiCalculator",
+      "LiRemoveFormatting"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2 - Source Material/audio": "LiAudioLines",
+  "4 - Indexes/Física II.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#006fff"
+  },
+  "4 - Indexes/Economía.md": {
+    "iconName": "LiCircleDollarSign",
+    "iconColor": "#ffff00"
+  },
+  "4 - Indexes/Legislación.md": {
+    "iconName": "LiScale",
+    "iconColor": "#854900"
+  },
+  "4 - Indexes/Comunicación de Datos.md": {
+    "iconName": "LiSatellite",
+    "iconColor": "#c2027f"
+  },
+  "4 - Indexes/Probabilidad y estadística.md": {
+    "iconName": "LiChartColumn",
+    "iconColor": "#9c75ff"
+  },
+  "4 - Indexes/Desarrollo de Software.md": {
+    "iconName": "LiCode2",
+    "iconColor": "#ff8400"
+  },
+  "4 - Indexes/Diseño de Sistemas de Información.md": {
+    "iconName": "LiProportions",
+    "iconColor": "#008394"
+  },
+  "4 - Indexes/Bases de Datos.md": {
+    "iconName": "LiDatabase",
+    "iconColor": "#15b500"
+  },
+  "4 - Indexes/Análisis Matemático II.md": {
+    "iconName": "LiCalculator",
+    "iconColor": "#ff0000"
+  },
+  "2 - Source Material/images": "LiImage",
+  "2 - Source Material/docs": "LiFiles",
+  "2 - Source Material/books": "LiBookOpenText"
+}
