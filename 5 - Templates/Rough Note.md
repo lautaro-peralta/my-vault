@@ -1,9 +1,0 @@
-{{date}}, {{time}}
-#pendiente 
-
----
-
-
-
----
-### Observaciones
